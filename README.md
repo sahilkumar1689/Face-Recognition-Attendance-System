@@ -26,12 +26,19 @@ This project is licensed under the MIT License, allowing for free and open-sourc
 Here are some of the libraries commonly used in projects like the Face Recognition Attendance System:
 
 1.OpenCV: Open Source Computer Vision Library is used for real-time computer vision tasks like face detection, image processing, and video analysis.
+
 2.dlib: A C++ library with Python bindings, dlib is often used for machine learning tasks including facial recognition, object detection, and image classification.
+
 3.TensorFlow: An open-source machine learning framework developed by Google, TensorFlow is widely used for training and deploying deep learning models, including those for facial recognition.
+
 4.PyTorch: Another popular open-source machine learning framework, PyTorch is known for its flexibility and ease of use in developing and training deep learning models.
+
 5.face_recognition: A Python library built on top of dlib and OpenCV, face_recognition provides a simple interface for face recognition tasks, making it easy to implement in projects like yours.
+
 6.NumPy: NumPy is a fundamental library for numerical computing in Python, providing support for large arrays and matrices, along with a wide range of mathematical functions.
+
 7.Pillow: The Python Imaging Library (PIL), now known as Pillow, is used for image processing tasks such as resizing, cropping, and manipulating image files.
+
 8.scikit-learn: scikit-learn is a versatile machine learning library in Python, offering a wide range of algorithms and tools for classification, regression, clustering, and dimensionality reduction tasks.
 9.Flask: Flask is a lightweight web framework for Python, commonly used for building web applications and APIs. It could be used for implementing the user interface and backend logic of your attendance system.
 10.SQLAlchemy: SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python, providing a powerful and flexible way to interact with relational databases like MySQL or PostgreSQL. It could be used for managing and querying the database of employee records and attendance logs.
