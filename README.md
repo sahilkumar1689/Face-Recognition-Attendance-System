@@ -4,12 +4,17 @@ The Face Recognition Attendance System is an innovative project aimed at revolut
 
 Key Features:
 
-Automatic Attendance Recording: Utilizes facial recognition technology to automatically record employee attendance in real-time.
-Robust Face Detection: Employs state-of-the-art face detection algorithms to accurately locate faces within images or video streams.
-Facial Recognition: Implements deep learning models for facial recognition, enabling the system to verify employee identities with high accuracy.
-User-friendly Interface: Provides intuitive user interfaces for administrators and employees, facilitating easy interaction and navigation.
-Data Security: Incorporates stringent security measures to safeguard sensitive biometric data, ensuring compliance with privacy regulations.
+1.Automatic Attendance Recording: Utilizes facial recognition technology to automatically record employee attendance in real-time.
+
+2.Robust Face Detection: Employs state-of-the-art face detection algorithms to accurately locate faces within images or video streams.
+
+3.Facial Recognition: Implements deep learning models for facial recognition, enabling the system to verify employee identities with high accuracy.
+
+4.User-friendly Interface: Provides intuitive user interfaces for administrators and employees, facilitating easy interaction and navigation.
+
+5.Data Security: Incorporates stringent security measures to safeguard sensitive biometric data, ensuring compliance with privacy regulations.
 Purpose:
+
 The Face Recognition Attendance System aims to address the limitations of traditional attendance management methods, such as manual entry and swipe cards, by offering a reliable, efficient, and secure solution for tracking employee attendance.
 
 Usage:
@@ -40,5 +45,7 @@ Here are some of the libraries commonly used in projects like the Face Recogniti
 7.Pillow: The Python Imaging Library (PIL), now known as Pillow, is used for image processing tasks such as resizing, cropping, and manipulating image files.
 
 8.scikit-learn: scikit-learn is a versatile machine learning library in Python, offering a wide range of algorithms and tools for classification, regression, clustering, and dimensionality reduction tasks.
+
 9.Flask: Flask is a lightweight web framework for Python, commonly used for building web applications and APIs. It could be used for implementing the user interface and backend logic of your attendance system.
-10.SQLAlchemy: SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python, providing a powerful and flexible way to interact with relational databases like MySQL or PostgreSQL. It could be used for managing and querying the database of employee records and attendance logs.
+
+10.SQLAlchemy: SQLAlchemy is a SQL toolkit and Object-Relational Mapping (ORM) library for Python, providing a powerful and flexible way to interact with relational databases like MySQL or PostgreSQL or Firebase It could be used for managing and querying the database of employee records and attendance logs.
