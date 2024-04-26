@@ -13,7 +13,7 @@ from firebase_admin import storage
 from datetime import datetime
 import time
 
-cred = credentials.Certificate("C:/Users/Dell/PycharmProjects/Facerecogination/code/serviceAccountKey.json")
+cred = credentials.Certificate("C:/Users/Dell/PycharmProjects/serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
     "databaseURL": "https://face-attendance-a3bd4-default-rtdb.firebaseio.com/",
     "storageBucket": "face-attendance-a3bd4.appspot.com"
@@ -45,7 +45,7 @@ for path in modePathList:
 
 
 # Load the encoding files:
-file = open('Facerecogination\code\ExtractEncodings.p', 'rb')
+file = open('C:/Users/Dell/PycharmProjects/Facerecogination/code/ExtractEncodings.p', 'rb')
 encodeListKnownwithIds = pickle.load(file)
 file.close()
 encodeListKnown, studentIds = encodeListKnownwithIds
