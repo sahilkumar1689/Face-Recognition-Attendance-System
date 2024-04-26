@@ -2,7 +2,7 @@ import firebase_admin
 from firebase_admin import credentials
 from firebase_admin import db
 
-cred = credentials.Certificate("C:/Users/Dell/PycharmProjects/Facerecogination/code/serviceAccountKey.json")
+cred = credentials.Certificate("C:/Users/Dell/PycharmProjects/serviceAccountKey.json")
 firebase_admin.initialize_app(cred, {
     "databaseURL": "https://face-attendance-a3bd4-default-rtdb.firebaseio.com/"
 })
