@@ -45,7 +45,7 @@ for path in modePathList:
 
 
 # Load the encoding files:
-file = open('ExtractEncodings.p', 'rb')
+file = open('Facerecogination\code\ExtractEncodings.p', 'rb')
 encodeListKnownwithIds = pickle.load(file)
 file.close()
 encodeListKnown, studentIds = encodeListKnownwithIds
