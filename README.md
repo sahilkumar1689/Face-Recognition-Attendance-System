@@ -1,4 +1,4 @@
-Face Recognition Attendance System:
+<h1>Face Recognition Attendance System:</h1>
 
 The Face Recognition Attendance System is an innovative project aimed at revolutionizing the way organizations track employee attendance. Leveraging advanced facial recognition technology and computer vision algorithms, this system automates the attendance tracking process, ensuring accuracy, efficiency, and security.
 
